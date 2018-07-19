@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Quicknem for WooCommerce
- * Plugin URI: https://wuicknem.com/
+ * Plugin URI: https://quicknem.com/
  * Description:
  * Author: Fumito MIZUNO
  * Author URI: https://ounziw.com/
